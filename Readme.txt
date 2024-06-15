@@ -1,3 +1,12 @@
+Users:
+username: admin
+email: admin@littlelemon.com
+password : lemon@567
+
+username: Adrian
+email: adrian@littlelemon.com
+password : lemon@adr
+
 API paths for testing:
 /auth/users
 /auth/token/login
